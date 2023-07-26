@@ -58,7 +58,8 @@ Para esto, se comenta su trasnquilador por defecto que esta en la raiz/vue.confi
         },
     }
 
-4 single-spa application / parcel = angular
+4 Explicacion https://www.youtube.com/watch?v=XbNsZSYXBp0
+    single-spa application / parcel = angular
     ? Directory for new project mfe-angular
     ? Select type to generate single-spa application / parcel
     ? Which framework do you want to use? angular
